@@ -1,0 +1,35 @@
+# 0 H
+mo o OooOooo
+# 1 e
+mo O OOooOoO
+# 2 l
+mo Oo OOoOOoo
+# 3 o
+mo OO OOoOOOO
+# 4 ,
+mo Ooo OoOOoo
+# 5, SPACE
+mo OoO Oooooo
+# 6 W
+mo OOo OoOoOOO
+# 7 r
+mo OOO OOOooOo
+# 8 d
+mo Oooo OOooOoo
+# 9 !
+mo OooO OooooO
+
+# Printing:
+mO o Oo
+mO O Oo
+mO Oo Oo
+mO Oo Oo
+mO OO Oo
+mO Ooo Oo
+mO OoO Oo
+mO OOo Oo
+mO OO Oo
+mO OOO Oo
+mO Oo Oo
+mO Oooo Oo
+mO OooO Oo
